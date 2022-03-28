@@ -18,8 +18,10 @@ I'm 20 years old and I perform as a Solidity-full stack Developer, using both Fr
 
 ## Back-end technologies
 
+![Solidity](https://img.shields.io/github/downloads/tomiwolf/tomiwolf/total?label=Solidity&logo=solidity&style=social)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Solidity](https://img.shields.io/github/downloads/tomiwolf/tomiwolf/total?color=f&label=SOLIDITY&logo=solidity&logoColor=f&style=plastic)
+![Hardhat](https://img.shields.io/github/downloads/tomiwolf/tomiwolf/total?label=Solidity&logo=solidity&style=social)
+
 
 ---
 

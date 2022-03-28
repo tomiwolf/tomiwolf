@@ -1,4 +1,3 @@
-#  https://cdn.jsdelivr.net/gh/tomiwolf/tomiwolf@main/fotofachera.jpeg 
 # Hi, I'm Tomiwolf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 

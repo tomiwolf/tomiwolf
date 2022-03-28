@@ -2,7 +2,7 @@
 # Hi, I'm Tomiwolf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-<img src="https://github.com/tomiwolf/tomiwolf/blob/main/fotofachera.jpeg" alt="banner that says Tomi Wolf - Blockchain developer, full stack & freelancer alongside a Web3 Products">
+<img src="https://github.com/tomiwolf/tomiwolf/blob/main/fotofachera.jpeg" alt="banner that says Tomi Wolf - Blockchain developer, full stack & freelancer alongside a Web3 Products" width="300px">
 
 I'm 20 years old and I perform as a Solidity-full stack Developer, using both Front-end and Back-end technologies.
 
